@@ -1,4 +1,4 @@
-let URL = 'http://viniciusaugusto.azurewebsites.net/api/'
+let URL = 'https://viniciusaugusto.azurewebsites.net/api/'
 
 export default {
   post (path, body) {
